@@ -1,0 +1,18 @@
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.sqlite3
+db.sqlite3
+.env
+.cache/
+staticfiles/
+sessions/
+# scraped lead data / PII — never commit
+*.csv
+Leads/
+leads-w-emails/
+outputs/
+output/
+*.log
